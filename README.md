@@ -8,4 +8,4 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/-NumPy?style=plastic&logo=NumPy&logoColor=%23013243&label=NumPy&labelColor=c1c1c1&color=c1c1c1">
 <img alt="Static Badge" src="https://img.shields.io/badge/-Sympy%09?style=plastic&logo=sympy&logoColor=%233B5526&label=sympy&labelColor=c1c1c1&color=c1c1c1">
 <img alt="Static Badge" src="https://img.shields.io/badge/-Seaborn?style=plastic&logo=Seaborn&logoColor=%23013243&label=Seaborn&labelColor=c1c1c1&color=c1c1c1">
-
+<img alt="Static Badge" src="https://img.shields.io/badge/-wxPython?style=plastic&logo=-wxPython&logoColor=%2344A833&label=wxPython&labelColor=c1c1c1&color=c1c1c1">
