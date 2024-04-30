@@ -9,3 +9,4 @@
 #### 3. conda info -e　コマンドにて構築環境確認  
 #### 4. conda activate 仮想環境名　コマンドにて構築した環境に切り替え  
 #### 5.conda install モジュール名　で必要なモジュールをインストール
+#### ※conda install -c conda-forge wxpython　コマンドにてwxpythonはインストール
