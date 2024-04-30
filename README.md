@@ -7,6 +7,6 @@
 ## 構築手順  
 #### 1. Anaconda(Windows版)インストール  
 #### 2. conda env create -n 環境名　コマンドにてTerminalから環境作成  
-#### 2. conda info -e　コマンドにて構築環境確認  
-#### 3. conda activate 仮想環境名　コマンドにて構築した環境に切り替え  
-#### 4.conda install モジュール名　で必要なモジュールをインストール
+#### 3. conda info -e　コマンドにて構築環境確認  
+#### 4. conda activate 仮想環境名　コマンドにて構築した環境に切り替え  
+#### 5.conda install モジュール名　で必要なモジュールをインストール
