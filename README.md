@@ -9,3 +9,10 @@
 #### 4. conda activate 仮想環境名　コマンドにて構築した環境に切り替え  
 #### 5.conda install モジュール名　で必要なモジュールをインストール
 #### ※conda install -c conda-forge wxpython　コマンドにてwxpythonはインストール
+
+## これは何ですか？
+過去にwxpythonで実装した各種グラフです。  
+* excelを読み込んでグラフ表示
+* 数式を利用したグラフ表示(xの二乗＋5x＋4)
+* 散布図(ランダム数値)
+* 等高線
