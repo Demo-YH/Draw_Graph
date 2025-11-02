@@ -8,4 +8,4 @@ wxpythonで実装した各種グラフ。
 * 数式を利用したグラフ表示(xの二乗＋5x＋4)
 * 散布図(ランダム数値)
 * 等高線
-####　 [環境手順はこちら]([https://github.com/Demo-YH/Document/blob/master/tailwind.md](https://github.com/Demo-YH/Pyton_document/blob/master/anaconda.md))  
+#### [環境手順はこちら]([https://github.com/Demo-YH/Document/blob/master/tailwind.md](https://github.com/Demo-YH/Pyton_document/blob/master/anaconda.md))  
